@@ -278,6 +278,11 @@ header {
         font-size: 18px;
         padding: .5em 5em .5em 0;
     }
+    
+    .about-img {
+        display: flex;
+        align-items: center;
+        }
 
     .about-img img{
         display: flex;
@@ -341,7 +346,7 @@ header {
 
 .expirence-date {
     padding-bottom: 1em;
-    width: 272px;
+    width: 265px;
 }
 }
 
